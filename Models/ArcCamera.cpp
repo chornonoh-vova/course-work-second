@@ -1,5 +1,5 @@
 /*
-ArcCamera - камера проекта
+ArcCamera - РєР°РјРµСЂР° РїСЂРѕРµРєС‚Р°
 */
 
 #include"ArcCamera.h"
